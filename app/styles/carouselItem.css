@@ -1,0 +1,19 @@
+.carouselItem {
+  height: 100%;
+  width: 150px;
+}
+.carouselItem.hide {
+  display: none;
+}
+
+.carouselItem .imgContainer {
+  width: 80px;
+  height: 80px;
+}
+
+.carouselItem > div {
+  width: 150px;
+  border: 1px solid black;
+  height: 100%;
+  padding: 2px;
+}

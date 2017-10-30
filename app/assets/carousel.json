@@ -1,0 +1,30 @@
+[
+  {
+    "title": "First Block",
+    "images": ["http://via.placeholder.com/80/000000", "http://via.placeholder.com/80/005500", "http://via.placeholder.com/80/003399"]
+  },
+  {
+    "title": "Second Block",
+    "images": ["http://via.placeholder.com/80/123456", "http://via.placeholder.com/80/456123"]
+  },
+  {
+    "title": "Third Block",
+    "images": ["http://via.placeholder.com/80/987654", "http://via.placeholder.com/80/258369", "http://via.placeholder.com/80/159632"]
+  },
+  {
+    "title": "Fourth Block",
+    "images": ["http://via.placeholder.com/80/987412", "http://via.placeholder.com/80/258745"]
+  },
+  {
+    "title": "Fifth Block",
+    "images": ["http://via.placeholder.com/80/225336", "http://via.placeholder.com/80/112255", "http://via.placeholder.com/80/557788"]
+  },
+  {
+    "title": "Sixth Block",
+    "images": ["http://via.placeholder.com/80/365478", "http://via.placeholder.com/80/951487"]
+  },
+  {
+    "title": "Seventh Block",
+    "images": ["http://via.placeholder.com/80/143685", "http://via.placeholder.com/80/745296"]
+  }
+]

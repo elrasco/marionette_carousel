@@ -1,0 +1,44 @@
+.carousel .arrow {
+  width: 50px;
+  height: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  line-height: 20px;
+  cursor: pointer;
+}
+
+.carousel .arrow[disabled]:hover {
+  font-weight: inherit;
+}
+.carousel .arrow[disabled] {
+  cursor: default;
+}
+
+.carousel .arrow:hover {
+  font-weight: bold;
+}
+
+.carousel .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel #carouselItemContainer {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  margin: 0 20px;
+  overflow: hidden;
+}
+
+.carousel .carouselItemContainer {
+  position: relative;
+  left: 0;
+  display: flex;
+  width: 600px;
+  transition: left 0.2s;
+}
