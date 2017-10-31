@@ -17,7 +17,6 @@ export default Marionette.View.extend({
     "click @ui.arrowLeft": "moveLeft",
     "click @ui.arrowRight": "moveRight"
   },
-  length: 0,
   onRender: function() {
     let carouselCollection = new CarouselCollection();
     this.showChildView("carouselItemContainer", new CarouselItemContainer({ collection: carouselCollection }));
